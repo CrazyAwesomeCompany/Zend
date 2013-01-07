@@ -8,9 +8,9 @@
     "autoload": {
         "psr-0": {
             "Zend": "lib"
-        },
-        "classmap": [
-            "lib"
-        ]
-    }
+        }
+    },
+    "include-path": [
+    	"lib"
+	]
 }
